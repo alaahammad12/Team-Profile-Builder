@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/djbowen95/team-profile-builder.git"
+    "url": "git+https://github.com/alaahammad12/Team-Profile-Builder"
   },
   "keywords": [
     "team",
@@ -23,11 +23,12 @@
   "author": "Daniel Bowen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/djbowen95/team-profile-builder/issues"
+    "url": "https://github.com/alaahammad12/Team-Profile-Builder"
   },
-  "homepage": "https://github.com/djbowen95/team-profile-builder#readme",
+  "homepage": "https://github.com/alaahammad12/Team-Profile-Builder#readme",
   "dependencies": {
     "inquirer": "^8.2.0",
-    "jest": "^27.5.1"
+    "jest": "^27.5.1",
+    "puppeteer": "^20.2.0"
   }
 }
