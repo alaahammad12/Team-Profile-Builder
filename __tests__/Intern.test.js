@@ -9,6 +9,7 @@ describe("Intern subclass", () => {
 
       expect(intern.school).toEqual("Mr. Ray's School for Fish");
     });
+  
   });
 
   describe("Methods", () => {
@@ -24,9 +25,7 @@ describe("Intern subclass", () => {
 
         expect(intern.getRole()).toEqual("Intern");
     })
-
-
-  });
+});
 
   describe("Inheritance", () => {
     it("Properties", () => {

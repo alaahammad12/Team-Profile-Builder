@@ -50,21 +50,3 @@ describe("Engineer subclass", () => {
         })
     })
 })
-
-// test("GitHub", () => {
-//     const github = "jamesmakeswebsites";
-//     const engineer = new Engineer("James", 2212, "james@fakeemail.com", github);
-//     expect(engineer.github).toEqual(github);
-// })
-
-// test("Get Office Number Function", () => {
-//     const github = "jamesmakeswebsites";
-//     const engineer = new Engineer("James", 2212, "james@fakeemail.com", github);
-//     expect(engineer.getGitHub()).toEqual(github);
-// })
-
-// test("Get Role Function", () => {
-//     const role = "Engineer";
-//     const engineer = new Engineer();
-//     expect(engineer.getRole()).toEqual(role);
-// })
